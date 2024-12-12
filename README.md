@@ -8,7 +8,7 @@ Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Pyth
 ## Tabela de porcentagens de problemas solucionados até o momento
 
 | Categoria                | Documentados | Total de problemas | Porcentagem |
-|-------------------------|--------------|--------------------|-------------|
+| ----------------------- | ------------ | ------------------ | ----------- |
 | Iniciante                 |           90 |                334 |     26.95% |
 | Ad-Hoc                    |            0 |                849 |      0.00% |
 | Strings                   |            3 |                150 |      2.00% |
@@ -20,4 +20,5 @@ Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Pyth
 | SQL                       |            0 |                 50 |      0.00% |
 |                         |              |                    |             |
 | **Total**               |           93 |               2407 |      3.86% |
+
 *Essta tabela baseia-se na encontrada no repositório da xTenca*
