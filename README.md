@@ -20,18 +20,4 @@ Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Pyth
 | SQL                       |            0 |                 50 |      0.00% |
 |                         |              |                    |             |
 | **Total**               |           93 |               2407 |      3.86% |
-
-
-| Categoria | Documentados | Total de problemas | Porcentagem |
-| -- | -- | -- | -- |
-| Iniciante | 246 | 334 | 73,65% |
-| Ad-Hoc| 85 | 849 | 10,01% |
-| Strings | 28 | 150 | 18,67% |
-| Estruturas e Bibliotecas | 20 | 180 | 11,11% |
-| Matemática | 27 | 269 | 10,04% |
-| Paradigmas | 7 | 215 | 3,26% |
-| Grafos | 4 | 277 | 1,44% |
-| Geometria Computacional | 1 | 83 | 1,2% |
-| SQL| 50 | 50 | 100% |
-| | | |
-| Total | 468 | 2407 | 19,44% |
+*Essta tabela baseia-se na encontrada no repositório da xTenca*
