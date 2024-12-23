@@ -3,13 +3,13 @@
 
 ## O proposito
 
-Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Python e, recentemente, decidi expandir para outras linguagens, como por exemplo, Javascript e TypeScript. E, para treinar e aperfeiçoar esses conhecimentos, dei início nas resoluções de problemas no site do Beecrowd. Então, deixarei aqui, minhas humilde soluções para cada problema ecolhido começando, é claro, pela categoria de iniciantes.
+Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Python e, recentemente, decidi expandir para outras linguagens, como por exemplo, Javascript e TypeScript. E, para treinar e aperfeiçoar esses conhecimentos, dei início nas resoluções de problemas no site do Beecrowd. Então, deixarei aqui, minhas humildes soluções para cada problema ecolhido começando, é claro, pela categoria de iniciantes.
 
 ## Tabela de porcentagens de problemas solucionados até o momento
 
 | Categoria                | Resolvidos | Total de problemas | Porcentagem |
 | ----------------------- | --------- | ------------------ | ----------- |
-| Iniciante                 |          104 |                334 |     31.14% |
+| Iniciante                 |          109 |                334 |     32.63% |
 | Ad-Hoc                    |            4 |                849 |      0.47% |
 | Strings                   |            3 |                150 |      2.00% |
 | Estruturas e Bibliotecas  |            0 |                180 |      0.00% |
@@ -19,4 +19,4 @@ Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Pyth
 | Geometria Computacional   |            0 |                 83 |      0.00% |
 | SQL                       |            0 |                 50 |      0.00% |
 |                         |              |                    |             |
-| **Total**               |          111 |               2407 |      4.61% |
+| **Total**               |          116 |               2407 |      4.82% |
