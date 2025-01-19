@@ -9,14 +9,14 @@ Como iniciativa para aprender uma nova área, comecei a estudar a linguagem Pyth
 
 | Categoria                | Resolvidos | Total de problemas | Porcentagem |
 | ----------------------- | --------- | ------------------ | ----------- |
-| Iniciante                 |          137 |                334 |     41.02% |
+| Iniciante                 |          138 |                334 |     41.32% |
 | Ad-Hoc                    |            4 |                849 |      0.47% |
 | Strings                   |            5 |                150 |      3.33% |
 | Estruturas e Bibliotecas  |            0 |                180 |      0.00% |
-| Matemática                |            0 |                269 |      0.00% |
+| matematica                |            1 |                269 |      0.37% |
 | Paradigmas                |            0 |                215 |      0.00% |
 | Grafos                    |            0 |                277 |      0.00% |
 | Geometria Computacional   |            0 |                 83 |      0.00% |
 | SQL                       |           11 |                 50 |     22.00% |
 |                         |              |                    |             |
-| **Total**               |          157 |               2407 |      6.52% |
+| **Total**               |          159 |               2407 |      6.61% |
